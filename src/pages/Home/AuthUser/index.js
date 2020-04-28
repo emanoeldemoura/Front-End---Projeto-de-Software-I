@@ -8,7 +8,7 @@ import FacebookIcon from '@material-ui/icons/Facebook';
 import { IoLogoGoogle } from "react-icons/io";
 
 import * as firebase from "firebase";
-import "firebase/auth";
+import "firebase/auth";  
 
 import Styles from './styles';
 
